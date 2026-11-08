@@ -1,0 +1,6 @@
+{
+  "name": "MT5 M5 AutoTrader Pro",
+  "description": "Real-time automated M5 multi-pair trading engine for MetaTrader 5 with live market scanning, algorithmic strategies, risk management, and MQL5 EA bridge integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
